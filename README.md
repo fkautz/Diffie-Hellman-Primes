@@ -16,7 +16,7 @@ do
 done
 ```
 
-will generate 100 2048 bit primes. If you can ideally simply commit the files to the following github repo, 
+will generate 1000 2048 bit primes. If you can ideally simply commit the files to the following github repo, 
 simply create a directory in the root with your name/whatever you want to call it (nothing rude please) and 
 have a "2048" directory for the 2048 bit primes and a "4096" directory for the 4096 bit primes I would 
 appreciate it. If you use a tool other than OpenSSL command line to generate the primes please make a note of 
